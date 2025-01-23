@@ -1,0 +1,39 @@
+{
+  "boys": [
+    { "month": 1, "minWeight": 2.6, "medianWeight": 3.9, "maxWeight": 5.7 },
+    { "month": 2, "minWeight": 3.5, "medianWeight": 5.1, "maxWeight": 7.0 },
+    { "month": 3, "minWeight": 4.4, "medianWeight": 6.2, "maxWeight": 8.1 },
+    { "month": 4, "minWeight": 5.1, "medianWeight": 7.0, "maxWeight": 8.8 },
+    { "month": 5, "minWeight": 5.6, "medianWeight": 7.5, "maxWeight": 9.4 },
+    { "month": 6, "minWeight": 5.9, "medianWeight": 7.9, "maxWeight": 9.9 },
+    { "month": 7, "minWeight": 6.3, "medianWeight": 8.2, "maxWeight": 10.3 },
+    { "month": 8, "minWeight": 6.7, "medianWeight": 8.6, "maxWeight": 10.7 },
+    { "month": 9, "minWeight": 7.0, "medianWeight": 8.9, "maxWeight": 11.0 },
+    { "month": 10, "minWeight": 7.3, "medianWeight": 9.2, "maxWeight": 11.3 },
+    { "month": 11, "minWeight": 7.5, "medianWeight": 9.4, "maxWeight": 11.6 },
+    { "month": 12, "minWeight": 7.7, "medianWeight": 9.6, "maxWeight": 12.2 },
+    { "month": 24, "minWeight": 9.0, "medianWeight": 12.5, "maxWeight": 16.1 },
+    { "month": 36, "minWeight": 10.8, "medianWeight": 14.4, "maxWeight": 18.4 },
+    { "month": 48, "minWeight": 12.0, "medianWeight": 16.0, "maxWeight": 20.5 },
+    { "month": 60, "minWeight": 13.3, "medianWeight": 18.0, "maxWeight": 22.9 }
+  ],
+  "girls": [
+    { "month": 1, "minWeight": 2.5, "medianWeight": 3.7, "maxWeight": 5.5 },
+    { "month": 2, "minWeight": 3.4, "medianWeight": 4.8, "maxWeight": 6.6 },
+    { "month": 3, "minWeight": 4.2, "medianWeight": 5.7, "maxWeight": 7.7 },
+    { "month": 4, "minWeight": 4.8, "medianWeight": 6.4, "maxWeight": 8.4 },
+    { "month": 5, "minWeight": 5.3, "medianWeight": 6.9, "maxWeight": 8.9 },
+    { "month": 6, "minWeight": 5.7, "medianWeight": 7.3, "maxWeight": 9.3 },
+    { "month": 7, "minWeight": 6.0, "medianWeight": 7.6, "maxWeight": 9.7 },
+    { "month": 8, "minWeight": 6.3, "medianWeight": 7.9, "maxWeight": 10.0 },
+    { "month": 9, "minWeight": 6.5, "medianWeight": 8.2, "maxWeight": 10.3 },
+    { "month": 10, "minWeight": 6.8, "medianWeight": 8.5, "maxWeight": 10.6 },
+    { "month": 11, "minWeight": 7.0, "medianWeight": 8.7, "maxWeight": 10.8 },
+    { "month": 12, "minWeight": 6.7, "medianWeight": 8.9, "maxWeight": 11.5 },
+    { "month": 24, "minWeight": 8.5, "medianWeight": 11.3, "maxWeight": 14.8 },
+    { "month": 36, "minWeight": 10.1, "medianWeight": 13.0, "maxWeight": 16.8 },
+    { "month": 48, "minWeight": 11.4, "medianWeight": 14.8, "maxWeight": 19.0 },
+    { "month": 60, "minWeight": 12.9, "medianWeight": 16.9, "maxWeight": 21.4 }
+  ]
+}
+
