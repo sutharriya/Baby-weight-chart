@@ -31,7 +31,7 @@
     { "month": 48, "minWeight": 11.0, "medianWeight": 14.6, "maxWeight": 18.6 },
     { "month": 54, "minWeight": 11.5, "medianWeight": 15.3, "maxWeight": 19.3 },
     { "month": 60, "minWeight": 12.0, "medianWeight": 16.0, "maxWeight": 20.0 }
-  ],
+  ]
 {
   "girls": [
     { "month": 1, "minWeight": 2.4, "medianWeight": 3.2, "maxWeight": 4.2 },
