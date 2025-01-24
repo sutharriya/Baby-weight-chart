@@ -122,5 +122,5 @@
     { "month": 58, "minWeight": 11.5, "medianWeight": 15.4, "maxWeight": 20.4 },
     { "month": 59, "minWeight": 11.6, "medianWeight": 15.6, "maxWeight": 20.6 },
     { "month": 60, "minWeight": 11.7, "medianWeight": 15.7, "maxWeight": 20.8 }
-  ],
+  ]
 }
