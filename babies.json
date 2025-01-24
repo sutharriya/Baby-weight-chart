@@ -60,7 +60,7 @@
      { "month": 58, "minWeight": 11.9, "medianWeight": 15.7, "maxWeight": 20.1 },
       { "month": 59, "minWeight": 12.0, "medianWeight": 15.8, "maxWeight": 20.3 },
     { "month": 60, "minWeight": 12.0, "medianWeight": 16.0, "maxWeight": 20.0 }  
-  ]
+  ],
   "girls": [
     { "month": 1, "minWeight": 2.4, "medianWeight": 3.2, "maxWeight": 4.2 },
     { "month": 2, "minWeight": 3.2, "medianWeight": 4.2, "maxWeight": 5.4 },
@@ -122,5 +122,5 @@
     { "month": 58, "minWeight": 11.5, "medianWeight": 15.4, "maxWeight": 20.4 },
     { "month": 59, "minWeight": 11.6, "medianWeight": 15.6, "maxWeight": 20.6 },
     { "month": 60, "minWeight": 11.7, "medianWeight": 15.7, "maxWeight": 20.8 }
-  ]
+  ],
 }
