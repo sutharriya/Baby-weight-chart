@@ -115,7 +115,36 @@
     { "name": "Arman", "rhyme_pattern": "AN", "length": "short", "popularity": "classic", "gender": "boy" },
     { "name": "Aryaveer", "rhyme_pattern": "AN", "length": "long", "popularity": "modern", "gender": "boy" },
     { "name": "Sharvyan", "rhyme_pattern": "AN", "length": "long", "popularity": "unique", "gender": "boy" },
-    { "name": "Advan", "rhyme_pattern": "AN", "length": "short", "popularity": "unique", "gender": "boy" }
-  
+    { "name": "Advan", "rhyme_pattern": "AN", "length": "short", "popularity": "unique", "gender": "boy" }.
+        {"name": "Arya", "rhyme_pattern": "AN", "length": "short", "popularity": "modern", "gender": "girl"},
+        {"name": "Anaya", "rhyme_pattern": "AN", "length": "long", "popularity": "classic", "gender": "girl"},
+        {"name": "Arjun", "rhyme_pattern": "AN", "length": "short", "popularity": "modern", "gender": "boy"},
+        {"name": "Shaurya", "rhyme_pattern": "AN", "length": "long", "popularity": "classic", "gender": "boy"},
+        {"name": "Priya", "rhyme_pattern": "YA", "length": "short", "popularity": "modern", "gender": "girl"},
+        {"name": "Divyanshi", "rhyme_pattern": "YA", "length": "long", "popularity": "classic", "gender": "girl"},
+        {"name": "Vivaan", "rhyme_pattern": "AN", "length": "short", "popularity": "modern", "gender": "boy"},
+        {"name": "Ayaan", "rhyme_pattern": "AN", "length": "short", "popularity": "classic", "gender": "boy"},
+        {"name": "Meera", "rhyme_pattern": "RA", "length": "short", "popularity": "modern", "gender": "girl"},
+        {"name": "Veer", "rhyme_pattern": "ER", "length": "short", "popularity": "modern", "gender": "boy"},
+        {"name": "Anvi", "rhyme_pattern": "AN", "length": "short", "popularity": "modern", "gender": "girl"},
+        {"name": "Kiaan", "rhyme_pattern": "AN", "length": "short", "popularity": "classic", "gender": "boy"},
+        {"name": "Aaradhya", "rhyme_pattern": "YA", "length": "long", "popularity": "modern", "gender": "girl"},
+        {"name": "Ishaan", "rhyme_pattern": "AN", "length": "short", "popularity": "classic", "gender": "boy"},
+        {"name": "Riaan", "rhyme_pattern": "AN", "length": "short", "popularity": "modern", "gender": "boy"},
+        {"name": "Saanvi", "rhyme_pattern": "VI", "length": "short", "popularity": "classic", "gender": "girl"},
+        {"name": "Riva", "rhyme_pattern": "VA", "length": "short", "popularity": "modern", "gender": "girl"},
+        {"name": "Tanvi", "rhyme_pattern": "VI", "length": "short", "popularity": "classic", "gender": "girl"},
+        {"name": "Navya", "rhyme_pattern": "YA", "length": "short", "popularity": "modern", "gender": "girl"},
+        {"name": "Avyaan", "rhyme_pattern": "AN", "length": "long", "popularity": "modern", "gender": "boy"},
+        {"name": "Advait", "rhyme_pattern": "AIT", "length": "short", "popularity": "classic", "gender": "boy"},
+        {"name": "Myra", "rhyme_pattern": "RA", "length": "short", "popularity": "modern", "gender": "girl"},
+        {"name": "Vihaan", "rhyme_pattern": "AN", "length": "short", "popularity": "modern", "gender": "boy"},
+        {"name": "Aryan", "rhyme_pattern": "AN", "length": "short", "popularity": "classic", "gender": "boy"},
+        {"name": "Avni", "rhyme_pattern": "NI", "length": "short", "popularity": "modern", "gender": "girl"},
+        {"name": "Shanaya", "rhyme_pattern": "YA", "length": "long", "popularity": "modern", "gender": "girl"},
+        {"name": "Reyansh", "rhyme_pattern": "SH", "length": "long", "popularity": "classic", "gender": "boy"},
+        {"name": "Tanish", "rhyme_pattern": "SH", "length": "short", "popularity": "modern", "gender": "boy"}
     ]
 }
+
+
