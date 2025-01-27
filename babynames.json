@@ -48,6 +48,6 @@
         {"name": "Vedika", "gender": "girl", "rhyme_pattern": "KA", "length": "medium", "popularity": "modern"},
         {"name": "Yashika", "gender": "girl", "rhyme_pattern": "KA", "length": "medium", "popularity": "classic"},
         {"name": "Zara", "gender": "girl", "rhyme_pattern": "RA", "length": "short", "popularity": "modern"},
-        {"name": "Aarush", "gender": "boy", "rhyme_pattern": "SH", "length": "medium", "popularity": "classic"},
+        {"name": "Aarush", "gender": "boy", "rhyme_pattern": "SH", "length": "medium", "popularity": "classic"}
     ]
 }
