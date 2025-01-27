@@ -177,9 +177,26 @@
     { "name": "Yash", "rhyme_pattern": "YA", "length": "short", "popularity": "modern", "gender": "boy" },
     { "name": "Yashika", "rhyme_pattern": "YA", "length": "long", "popularity": "modern", "gender": "girl" },
     { "name": "Yogesh", "rhyme_pattern": "YO", "length": "long", "popularity": "classic", "gender": "boy" },
-    { "name": "Yamini", "rhyme_pattern": "YA", "length": "long", "popularity": "classic", "gender": "girl" }
-
-    ]
+    { "name": "Yamini", "rhyme_pattern": "YA", "length": "long", "popularity": "classic", "gender": "girl" },
+    { "name": "Ankit", "rhyme_pattern": "AN", "length": "medium", "popularity": "modern", "gender": "boy" },
+    { "name": "Anaya", "rhyme_pattern": "AN", "length": "medium", "popularity": "classic", "gender": "girl" },
+    { "name": "Yamini", "rhyme_pattern": "YA", "length": "medium", "popularity": "classic", "gender": "girl" },
+    { "name": "Yashvi", "rhyme_pattern": "YA", "length": "medium", "popularity": "modern", "gender": "girl" },
+    { "name": "Rajat", "rhyme_pattern": "RA", "length": "medium", "popularity": "modern", "gender": "boy" },
+    { "name": "Ravina", "rhyme_pattern": "RA", "length": "medium", "popularity": "classic", "gender": "girl" },
+    { "name": "Indira", "rhyme_pattern": "IN", "length": "medium", "popularity": "classic", "gender": "girl" },
+    { "name": "Ishaan", "rhyme_pattern": "IN", "length": "medium", "popularity": "modern", "gender": "boy" },
+    { "name": "Nihar", "rhyme_pattern": "NI", "length": "medium", "popularity": "modern", "gender": "boy" },
+    { "name": "Nisha", "rhyme_pattern": "NI", "length": "medium", "popularity": "classic", "gender": "girl" },
+    { "name": "Aritra", "rhyme_pattern": "AIT", "length": "medium", "popularity": "classic", "gender": "boy" },
+    { "name": "Saita", "rhyme_pattern": "AIT", "length": "medium", "popularity": "modern", "gender": "girl" },
+    { "name": "Viren", "rhyme_pattern": "VI", "length": "medium", "popularity": "modern", "gender": "boy" },
+    { "name": "Vishakha", "rhyme_pattern": "VI", "length": "medium", "popularity": "classic", "gender": "girl" },
+    { "name": "Shaurya", "rhyme_pattern": "SH", "length": "medium", "popularity": "modern", "gender": "boy" },
+    { "name": "Sharini", "rhyme_pattern": "SH", "length": "medium", "popularity": "classic", "gender": "girl" },
+    { "name": "Eran", "rhyme_pattern": "ER", "length": "medium", "popularity": "modern", "gender": "boy" },
+    { "name": "Erisha", "rhyme_pattern": "ER", "length": "medium", "popularity": "classic", "gender": "girl" }
+]
 }
 
 
