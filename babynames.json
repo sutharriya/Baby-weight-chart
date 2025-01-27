@@ -195,8 +195,28 @@
     { "name": "Shaurya", "rhyme_pattern": "SH", "length": "medium", "popularity": "modern", "gender": "boy" },
     { "name": "Sharini", "rhyme_pattern": "SH", "length": "medium", "popularity": "classic", "gender": "girl" },
     { "name": "Eran", "rhyme_pattern": "ER", "length": "medium", "popularity": "modern", "gender": "boy" },
-    { "name": "Erisha", "rhyme_pattern": "ER", "length": "medium", "popularity": "classic", "gender": "girl" }
+    { "name": "Erisha", "rhyme_pattern": "ER", "length": "medium", "popularity": "classic", "gender": "girl" },
+        [
+    { "name": "Aniruddha", "rhyme_pattern": "AN", "length": "long", "popularity": "classic", "gender": "boy" },
+    { "name": "Anamika", "rhyme_pattern": "AN", "length": "long", "popularity": "modern", "gender": "girl" },
+    { "name": "Yashodhan", "rhyme_pattern": "YA", "length": "long", "popularity": "classic", "gender": "boy" },
+    { "name": "Yashasvini", "rhyme_pattern": "YA", "length": "long", "popularity": "modern", "gender": "girl" },
+    { "name": "Raghunandan", "rhyme_pattern": "RA", "length": "long", "popularity": "classic", "gender": "boy" },
+    { "name": "Ratanmala", "rhyme_pattern": "RA", "length": "long", "popularity": "modern", "gender": "girl" },
+    { "name": "Indraprastha", "rhyme_pattern": "IN", "length": "long", "popularity": "classic", "gender": "boy" },
+    { "name": "Indulekha", "rhyme_pattern": "IN", "length": "long", "popularity": "modern", "gender": "girl" },
+    { "name": "Nishantika", "rhyme_pattern": "NI", "length": "long", "popularity": "modern", "gender": "girl" },
+    { "name": "Nityananda", "rhyme_pattern": "NI", "length": "long", "popularity": "classic", "gender": "boy" },
+    { "name": "Aitaranya", "rhyme_pattern": "AIT", "length": "long", "popularity": "classic", "gender": "boy" },
+    { "name": "Aishwarya", "rhyme_pattern": "AIT", "length": "long", "popularity": "modern", "gender": "girl" },
+    { "name": "Vikramaditya", "rhyme_pattern": "VI", "length": "long", "popularity": "classic", "gender": "boy" },
+    { "name": "Vishwajit", "rhyme_pattern": "VI", "length": "long", "popularity": "modern", "gender": "boy" },
+    { "name": "Sharvani", "rhyme_pattern": "SH", "length": "long", "popularity": "modern", "gender": "girl" },
+    { "name": "Sharadindu", "rhyme_pattern": "SH", "length": "long", "popularity": "classic", "gender": "boy" },
+    { "name": "Eravindhan", "rhyme_pattern": "ER", "length": "long", "popularity": "classic", "gender": "boy" },
+    { "name": "Erithmala", "rhyme_pattern": "ER", "length": "long", "popularity": "modern", "gender": "girl" }
 ]
+
 }
 
 
