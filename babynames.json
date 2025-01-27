@@ -115,7 +115,7 @@
     { "name": "Arman", "rhyme_pattern": "AN", "length": "short", "popularity": "classic", "gender": "boy" },
     { "name": "Aryaveer", "rhyme_pattern": "AN", "length": "long", "popularity": "modern", "gender": "boy" },
     { "name": "Sharvyan", "rhyme_pattern": "AN", "length": "long", "popularity": "unique", "gender": "boy" },
-    { "name": "Advan", "rhyme_pattern": "AN", "length": "short", "popularity": "unique", "gender": "boy" }.
+    { "name": "Advan", "rhyme_pattern": "AN", "length": "short", "popularity": "unique", "gender": "boy" },
         {"name": "Arya", "rhyme_pattern": "AN", "length": "short", "popularity": "modern", "gender": "girl"},
         {"name": "Anaya", "rhyme_pattern": "AN", "length": "long", "popularity": "classic", "gender": "girl"},
         {"name": "Arjun", "rhyme_pattern": "AN", "length": "short", "popularity": "modern", "gender": "boy"},
