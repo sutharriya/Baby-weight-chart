@@ -213,7 +213,15 @@
     { "name": "Sharvani", "rhyme_pattern": "SH", "length": "long", "popularity": "modern", "gender": "girl" },
     { "name": "Sharadindu", "rhyme_pattern": "SH", "length": "long", "popularity": "classic", "gender": "boy" },
     { "name": "Eravindhan", "rhyme_pattern": "ER", "length": "long", "popularity": "classic", "gender": "boy" },
-    { "name": "Erithmala", "rhyme_pattern": "ER", "length": "long", "popularity": "modern", "gender": "girl" }
+    { "name": "Erithmala", "rhyme_pattern": "ER", "length": "long", "popularity": "modern", "gender": "girl" },
+    { "name": "Rajiv", "rhyme_pattern": "RA", "length": "short", "popularity": "modern", "gender": "boy" },
+    { "name": "Rajni", "rhyme_pattern": "RA", "length": "short", "popularity": "classic", "gender": "girl" },
+    { "name": "Aithrika", "rhyme_pattern": "AIT", "length": "long", "popularity": "modern", "gender": "girl" },
+    { "name": "Indrajit", "rhyme_pattern": "IN", "length": "short", "popularity": "classic", "gender": "boy" },
+    { "name": "Nikita", "rhyme_pattern": "NI", "length": "short", "popularity": "modern", "gender": "girl" },
+    { "name": "Vijendra", "rhyme_pattern": "VI", "length": "long", "popularity": "classic", "gender": "boy" },
+    { "name": "Sharini", "rhyme_pattern": "SH", "length": "medium", "popularity": "modern", "gender": "girl" },
+    { "name": "Ereshwar", "rhyme_pattern": "ER", "length": "medium", "popularity": "classic", "gender": "boy" }
 ]
 }
 
