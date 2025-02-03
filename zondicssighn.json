@@ -5,7 +5,7 @@
       "date_range": "March 21 - April 19",
       "description": "Aries babies are energetic, brave, and full of enthusiasm. They love adventure and challenges.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEhORFMFW1OlNIziXoax47wWTl3bNauETyap3a0NXQM2eVfaWyMbyzvL-Yb2k5xO2bPwiu2TBsrTxpUBmCcwtfXGj1Y4CUFBDtfLn3bSKz_09z1ui0qV47mpT-VGRx_SI_Ov7lpNFmUjQe9qVJgY2jlzKn6nO_oedslyRokff-MFZRrN6Hr6xO56X90ys/s205/Aries%20.jpg",
-       "boy_names": ["Aarav", "Arjun", "Aditya", "Aryan", "Aniket", "Aarav", "adi", "Aaryan", "Arjun", "Arnav", "Advik", "Anay", "Abeer", "Atharv", "ahaan", "Ahaan", "Avyam"],
+       "boy_names": ["Aarav", "Arjun", "Aditya", "Aryan", "Aniket", "adi", "Aaryan", "Arjun", "Arnav", "Advik", "Anay", "Abeer", "Atharv", "ahaan", "Ahaan", "Avyam"],
       "girl_names": ["Aadhya", "Anaya", "Aarohi", "Avni", "Aisha", "Aanya", "Aadhya", "Ahana", "Aadriti", "Akshada", "Aadhira", "Aarini", "Aavya", "Aahana", "Aarya", "Aashvi", "Anvika", "Anaya", "Arohi", "Aadvika"]
     },
     {
@@ -34,7 +34,7 @@
     },
 	{
       "name": "Leo", 
-      "date_range": "Julay 23 - August 22",
+      "date_range": "July 23 - August 22",
       "description": "Leo, symbolized by the Lion, radiates confidence, charisma, and a natural flair for leadership. Leos are often seen as passionate and creative individuals.",
       "image_url": "'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilqbkumyxHLJ0Jb2hbhovSsmc85Hdp__zAGxIaAAo7z0TGgAo8tn408zVNxENcOpdHeU26AX9Aj2nGvxVAJX1ahEUVJQEY3zEZcnsNdKVm4KlBvbE6g5jhoSlJ4aSDT0UnxhYyyGUuRRH2iHciDTlLzwNtAajO-bOl18ECrOWQnpMaupj4BPFTZBbfWsU/s241/leo.jpg",
       "boy_names": ["Mohit", "Manav", "Manish", "Mayank", "Madhav", "Mahir", "Mayank", "Mridul", "Mihir", "Manvik", "Manas", "Mitansh", "Mokshith"],
@@ -50,15 +50,15 @@
     },
 	{
       "name": "Libra",
-      "date_range": "September 23 - Octember 23",
+      "date_range": "September 23 - October 23",
       "description": "Libra, the Scales, signifies balance, harmony, and a love for beauty. Libras are known for their diplomatic nature and a keen sense of fairness.",
       "image_url": "'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM-q2VY5UkFb5FDZSBfX8cD3BR6LU5uXZHrZfuB7Tm7e9Z6LtCPYFe7aC1Zj-tUYfaU12s8di5if9QV3tKmquC4woMwmXS9laU7tOe3YLsUWw-6k0wcpbF8JKoktpRrrFrpXqS3EUucvwrEGHAmtkBlZac8TKV5se3WyeHl5-kT0Ayg0f0VWUfssTncoY/s242/libra.jpg", 
       "boy_names": ["Rahul", "Rajat", "Rishabh", "Rohan", "Rudra", "Reyansh", "Riaan", "Rudra", "Ruhan", "Ronav", "Ranveer", "Rishit", "Rigved", "Rajvir", "Raunak"],
-      "girl_name": ["Reva", "Tanvi", "Trisha", "Tanya", "Tejasvi", "Rishika", "Riva", "Radhika", "Ruhani", "Reya", "Rajeshwari", "Ranjini", "Roshni", "Risha"]
+      "girl_names": ["Reva", "Tanvi", "Trisha", "Tanya", "Tejasvi", "Rishika", "Riva", "Radhika", "Ruhani", "Reya", "Rajeshwari", "Ranjini", "Roshni", "Risha"]
     },
 	{
       "name": "Scorpio",
-      "date_range": "Octember 24 - November 21",
+      "date_range": "Octeber 24 - November 21",
       "description": "Scorpio, the Scorpion, exudes intensity, passion, and resilience. Scorpios are often characterized by their deep emotions and a mysterious allure.",
       "image_url": "'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCyStvHpyylOJvN7C-F4rsl3y-T-ctH_k_Y1BAVk0Qihn-38maI29XnhLahY7hrxA90FEng372Lv8qITGgW2IkM0S-CI8D6SOFLijHds1JL3ggc3uGI_eAdPomuIkyRAu2HNQ5j9nfAhFT5z06yUalY0uDw89S1VkSV4jYNy5DNfDNQFz-d6qR4caw8Mo/s219/scorpio.jpg", 
       "boy_names": ["Naman", "Noah", "Neil", "Nirav", "Neil", "Nayan", "Nirbhay", "Navish", "Naksh", "Nitesh", "Nishay", "Nirvik", "Neerav", "Nishith"],
