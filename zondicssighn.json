@@ -31,8 +31,8 @@
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0c2IiSFMqI3_zafyhia0yRVZGKLkNWjnn80NNvKjDIL9veuC_2L-BK8Gy8eiC2QwJE9ecIJpVcKG5umJmtJB29CU9eTX60vIi1-RPLw_gw_AY9YXyFf5qOsJ85jIcYrOz13MM-Cx0Lpn16AqsiZnihCFhwC_z9p_bBiP15xwpA8UjM0QOCL5MtMrgkkQ/s237/cencer.jpg",
       "boy_names": ["Daksha", "Dev", "Darshan", "Devansh", "Divit"],
       "girl_names": ["Dolly", "Devika", "Disha", "Diya", "Divya", "Diya", "Divisha", "Daksha", "Darshita","Devika", "Dhyana", "Dishita", "Dhvani", "Dipali", "Deetya"]
-    },
-	{
+      },
+      {
       "name": "Leo", 
       "date_range": "July 23 - August 22",
       "description": "Leo, symbolized by the Lion, radiates confidence, charisma, and a natural flair for leadership. Leos are often seen as passionate and creative individuals.",
@@ -79,6 +79,7 @@
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXQtlhuNJ_-5da1jrwRMADqcIq1d0K0R4r9TN52oqhPLZMsHnPOwKBpEIP-jzh3WimTINXP0Bts7Zpve_2ho3yz0nKyyLBpflwl5o_a188loPYOWXTrRvKVO5UZNg76n6assSqPDR-gcHWmjFPVddzDsdfH1WeJz6KZU8REJd9tLO1fUfXImplDxFOoWo/s211/capricorn%20.jpp",
       "boy_names": ["Gautam", "Jayant", "Jatin", "Jaidev", "Jiyan", "Jivin", "Jashan", "Jaitvik", "Jagrav", "Jayant", "Jheelam", "Jayanth", "Jivansh", "Jiya", "Jivika", "Jahnvi", "Joshita", "Jhanvi", "Jagravi", "Janya", "Jheel", "Jaisvika", "Jivanshi"],
       "girl_names": ["Jiya", "Jivika", "Jahnvi", "Joshita", "Jhanvi", "Jagravi", "Janya", "Jheel", "Jaisvika", "Jivanshi"]  
+	},
 	{
       "name": "Aquarius",
       "date_range": "January 20 - February 18",
