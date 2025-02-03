@@ -24,7 +24,7 @@
       "girl_names": ["Garima", "Gargi", "Gitali", "Gulika", "Gomati", "Gauri", "Gitanjali", "Gauravi", "Garima", "Gangesha", "Gunjan", "Gunjita", "Grisha", "Gopika", "Geshna"]
     },
     {
-      "name": ""Cancer",
+      "name": "Cancer",
       "date_range": "Jun 22 - Julay 22",
       "description": "'Cancer, the Crab, is associated with nurturing, sensitivity, and intuition. Those born under Cancer are often deeply connected to their emotions and home.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0c2IiSFMqI3_zafyhia0yRVZGKLkNWjnn80NNvKjDIL9veuC_2L-BK8Gy8eiC2QwJE9ecIJpVcKG5umJmtJB29CU9eTX60vIi1-RPLw_gw_AY9YXyFf5qOsJ85jIcYrOz13MM-Cx0Lpn16AqsiZnihCFhwC_z9p_bBiP15xwpA8UjM0QOCL5MtMrgkkQ/s237/cencer.jpg",
@@ -44,8 +44,8 @@
       "date_range": "August 23 - September 22",
       "description": "Virgo, represented by the Virgin, embodies practicality, attention to detail, and a strong sense of duty. Virgos are meticulous and strive for perfection.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRYLEQ9rKsfxbZ-J6Af6-7y80kOUX3JEbTMBTj3OZ1q1HictCeIiTxUqdF0ymXcQZFHj9-MgD3NcYXNHzEYjQCLNOUf-KliPCCGM6OqidAdPfXcZg7AaLbF8WnSArLOhfJSAG_LL2fvgu46U5vX4enIIweQv8I5KiHHX9aofFOVuYVn7UbGvO7InNq5Ng/s220/Virgo%20.jpg",
-      "boy_names": "Parth', 'Pranav', 'Pranay', 'Piyush', 'Pratyush'],
-      "girl_names": ["Pihu", "Shanaya", "Prisha", 'Pranali", 'Paridhi']Aadhya", "Anaya", "Aarohi", "Avni", "Aisha"]
+      "boy_names": ["Parth", "Pranav", "Pranay", "Piyush", "Pratyush"],
+      "girl_names": ["Pihu", "Shanaya", "Prisha", "Pranali", "Paridhi", "Aadhya", "Anaya", "Aarohi", "Avni", "Aisha"]
     },
 	{
       "name": "Libra",
@@ -91,7 +91,7 @@
       "date_range": "February 19 - March 20",
       "description": "Pisces, represented by the Fish, signifies empathy, creativity, and a deep connection to the spiritual realm. Pisceans are often intuitive and compassionate individuals.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyglsTeQGW7uOpy7yEA8EzQoID2NiWX-xKUHcF4sV1bGMzpwgq0BuRgn3BkIKqFjcxlelzMUTuCF6xS3ElIpryZs5gTGYfxnNPh2bG9UnoWaEgsFjv61RHH9CsY2EbyPvRz9-9U8C5viBwP9ibjGkbHHBqIAO7n9NiRfs8CemhWBzQegW07FT7DidnSs8/s203/Pisces%20.jpg",
-      "boy_names": ["Chaitanya", "Chirag", "Chetvik", "Vihaan", "Vivaan", "Vedant", "Vansh", "Vian", "Vedhansh", "Viksit", "Vashisht", "Vyom", "Viransh"  "Yash",],
-      "girl_names": ["Chanchal", "Charvi", "Chahat", "Chavi", "Chetna", "Cheshta", "Chandni",  "Chhavi", "Charisha", "Caira", "Viha", "Vedika", "Vanshika", "Vanya",  "Vaishnavi", "Vritika", "Vrinda", "Vidhi", "Vamika", "Vishakha"],
+      "boy_names": ["Chaitanya", "Chirag", "Chetvik", "Vihaan", "Vivaan", "Vedant", "Vansh", "Vian", "Vedhansh", "Viksit", "Vashisht", "Vyom", "Viransh",  "Yash"],
+      "girl_names": ["Chanchal", "Charvi", "Chahat", "Chavi", "Chetna", "Cheshta", "Chandni",  "Chhavi", "Charisha", "Caira", "Viha", "Vedika", "Vanshika", "Vanya",  "Vaishnavi", "Vritika", "Vrinda", "Vidhi", "Vamika", "Vishakha"]
     ]
 	}
