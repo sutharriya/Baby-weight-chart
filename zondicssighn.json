@@ -1,4 +1,5 @@
- "zodiac_signs": [
+{
+"zodiac_signs": [
     {
       "name": "Aries",
       "date_range": "March 21 - April 19",
@@ -77,14 +78,14 @@
       "description": "Capricorn, the Goat, symbolizes ambition, discipline, and a strong sense of responsibility. Capricorns are determined and value hard work.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXQtlhuNJ_-5da1jrwRMADqcIq1d0K0R4r9TN52oqhPLZMsHnPOwKBpEIP-jzh3WimTINXP0Bts7Zpve_2ho3yz0nKyyLBpflwl5o_a188loPYOWXTrRvKVO5UZNg76n6assSqPDR-gcHWmjFPVddzDsdfH1WeJz6KZU8REJd9tLO1fUfXImplDxFOoWo/s211/capricorn%20.jpp",
       "boy_names": ["Gautam", "Jayant", "Jatin", "Jaidev", "Jiyan", "Jivin", "Jashan", "Jaitvik", "Jagrav", "Jayant", "Jheelam", "Jayanth", "Jivansh", "Jiya", "Jivika", "Jahnvi", "Joshita", "Jhanvi", "Jagravi", "Janya", "Jheel", "Jaisvika", "Jivanshi"],
-      "girl_names": ["Jiya", "Jivika", "Jahnvi", "Joshita", "Jhanvi", "Jagravi", "Janya", "Jheel", "Jaisvika", "Jivanshi",]  
+      "girl_names": ["Jiya", "Jivika", "Jahnvi", "Joshita", "Jhanvi", "Jagravi", "Janya", "Jheel", "Jaisvika", "Jivanshi"]  
 	{
       "name": "Aquarius",
       "date_range": "January 20 - February 18",
       "description":  "Aquarius, the Water-Bearer, embodies innovation, independence, and a humanitarian spirit. Aquarians are often forward-thinking and open-minded.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXQtlhuNJ_-5da1jrwRMADqcIq1d0K0R4r9TN52oqhPLZMsHnPOwKBpEIP-jzh3WimTINXP0Bts7Zpve_2ho3yz0nKyyLBpflwl5o_a188loPYOWXTrRvKVO5UZNg76n6assSqPDR-gcHWmjFPVddzDsdfH1WeJz6KZU8REJd9tLO1fUfXImplDxFOoWo/s211/capricorn%20.jpp",
-      "boy_names": ["Daksh", "Gaurav", "Dheeraj", "Darsh", "Devansh", "Dhruv", "Diyan", "Gautam", "Gopa", "Gatik", "Goutm", "Gaurik", "Gyaanesh", "Ganish",],
-      "girl_names": ["Diya", "Divisha", "Daksha", "Darshita","Devika", "Dhyana", "Dishita", "Dhvani", "Dipali", "Deetya",]
+      "boy_names": ["Daksh", "Gaurav", "Dheeraj", "Darsh", "Devansh", "Dhruv", "Diyan", "Gautam", "Gopa", "Gatik", "Goutm", "Gaurik", "Gyaanesh", "Ganish"],
+      "girl_names": ["Diya", "Divisha", "Daksha", "Darshita","Devika", "Dhyana", "Dishita", "Dhvani", "Dipali", "Deetya"]
     },
     {
 	  "name": "Pisces",
@@ -93,5 +94,6 @@
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyglsTeQGW7uOpy7yEA8EzQoID2NiWX-xKUHcF4sV1bGMzpwgq0BuRgn3BkIKqFjcxlelzMUTuCF6xS3ElIpryZs5gTGYfxnNPh2bG9UnoWaEgsFjv61RHH9CsY2EbyPvRz9-9U8C5viBwP9ibjGkbHHBqIAO7n9NiRfs8CemhWBzQegW07FT7DidnSs8/s203/Pisces%20.jpg",
       "boy_names": ["Chaitanya", "Chirag", "Chetvik", "Vihaan", "Vivaan", "Vedant", "Vansh", "Vian", "Vedhansh", "Viksit", "Vashisht", "Vyom", "Viransh",  "Yash"],
       "girl_names": ["Chanchal", "Charvi", "Chahat", "Chavi", "Chetna", "Cheshta", "Chandni",  "Chhavi", "Charisha", "Caira", "Viha", "Vedika", "Vanshika", "Vanya",  "Vaishnavi", "Vritika", "Vrinda", "Vidhi", "Vamika", "Vishakha"]
-    ]
-	}
+    }
+   ]
+ }
