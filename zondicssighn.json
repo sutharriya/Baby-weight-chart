@@ -38,7 +38,7 @@
       "description": "Leo, symbolized by the Lion, radiates confidence, charisma, and a natural flair for leadership. Leos are often seen as passionate and creative individuals.",
       "image_url": "'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilqbkumyxHLJ0Jb2hbhovSsmc85Hdp__zAGxIaAAo7z0TGgAo8tn408zVNxENcOpdHeU26AX9Aj2nGvxVAJX1ahEUVJQEY3zEZcnsNdKVm4KlBvbE6g5jhoSlJ4aSDT0UnxhYyyGUuRRH2iHciDTlLzwNtAajO-bOl18ECrOWQnpMaupj4BPFTZBbfWsU/s241/leo.jpg",
       "boy_names": ["Mohit", "Manav", "Manish", "Mayank", "Madhav", "Mahir", "Mayank", "Mridul", "Mihir", "Manvik", "Manas", "Mitansh", "Mokshith"],
-      "girl_name": ["Mia", "Mishka", "Myra", "Mahira", "Meher", "Manya", "Mitali", "Meenal", "Manvi", "Meesha", "Miraya", "Manyata"]
+      "girl_names": ["Mia", "Mishka", "Myra", "Mahira", "Meher", "Manya", "Mitali", "Meenal", "Manvi", "Meesha", "Miraya", "Manyata"]
 	},
 	{
       "name": "Virgo",
@@ -68,7 +68,7 @@
       "name": "Sagittarius",
       "date_range": "November 22 - December 21",
       "description": "Sagittarius, the Archer, represents adventure, optimism, and a love for freedom. Those born under Sagittarius are often seekers of truth and knowledge.",
-      "image_url": "'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiHqyxr6Gkl9SvKNoN1I5hVmsoOdmQxXlakCrsbtQkQDeWSIftniM48oD0hSwFJ5AM-0cTkmtnEgM2tBPFyo3A1EmLczYATQTR1rbbjcEBw_fZuomN3I-9MmFDnazWLr-CbgNPUeBNCVpU3cRDBLtF2Crq213m41MoT-A3MDkgfdU5L6hje3njLpLjg0g/s230/Sagittarius%20.jpg", 
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiHqyxr6Gkl9SvKNoN1I5hVmsoOdmQxXlakCrsbtQkQDeWSIftniM48oD0hSwFJ5AM-0cTkmtnEgM2tBPFyo3A1EmLczYATQTR1rbbjcEBw_fZuomN3I-9MmFDnazWLr-CbgNPUeBNCVpU3cRDBLtF2Crq213m41MoT-A3MDkgfdU5L6hje3njLpLjg0g/s230/Sagittarius%20.jpg", 
       "boy_names": ["Dhruv", "Bhavy", "Brijesh", "Bharat", "Darsh", "Devansh", "Diyan", "Darsheel", "Daksh", "Divit", "Devit", "Darvesh", "Dheer"],
       "girl_names": ["Tanya", "Trisha", "Bhavya", "Bhumika", "Bhumi", "Bhuvika", "Baani", "Barkha", "Brishti", "Bhavyanshi", "Binal", "Banshika", "Bairavi", "Diya", "Divisha", "Daksha", "Darshita","Devika", "Dhyana", "Dishita", "Dhvani", "Dipali", "Deetya"]
     },
@@ -84,7 +84,7 @@
       "name": "Aquarius",
       "date_range": "January 20 - February 18",
       "description":  "Aquarius, the Water-Bearer, embodies innovation, independence, and a humanitarian spirit. Aquarians are often forward-thinking and open-minded.",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXQtlhuNJ_-5da1jrwRMADqcIq1d0K0R4r9TN52oqhPLZMsHnPOwKBpEIP-jzh3WimTINXP0Bts7Zpve_2ho3yz0nKyyLBpflwl5o_a188loPYOWXTrRvKVO5UZNg76n6assSqPDR-gcHWmjFPVddzDsdfH1WeJz6KZU8REJd9tLO1fUfXImplDxFOoWo/s211/capricorn%20.jpp",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXQtlhuNJ_-5da1jrwRMADqcIq1d0K0R4r9TN52oqhPLZMsHnPOwKBpEIP-jzh3WimTINXP0Bts7Zpve_2ho3yz0nKyyLBpflwl5o_a188loPYOWXTrRvKVO5UZNg76n6assSqPDR-gcHWmjFPVddzDsdfH1WeJz6KZU8REJd9tLO1fUfXImplDxFOoWo/s211/capricorn%20.jpg",
       "boy_names": ["Daksh", "Gaurav", "Dheeraj", "Darsh", "Devansh", "Dhruv", "Diyan", "Gautam", "Gopa", "Gatik", "Goutm", "Gaurik", "Gyaanesh", "Ganish"],
       "girl_names": ["Diya", "Divisha", "Daksha", "Darshita","Devika", "Dhyana", "Dishita", "Dhvani", "Dipali", "Deetya"]
     },
