@@ -30,14 +30,14 @@
       "description": "Cancer, the Crab, is associated with nurturing, sensitivity, and intuition. Those born under Cancer are often deeply connected to their emotions and home.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0c2IiSFMqI3_zafyhia0yRVZGKLkNWjnn80NNvKjDIL9veuC_2L-BK8Gy8eiC2QwJE9ecIJpVcKG5umJmtJB29CU9eTX60vIi1-RPLw_gw_AY9YXyFf5qOsJ85jIcYrOz13MM-Cx0Lpn16AqsiZnihCFhwC_z9p_bBiP15xwpA8UjM0QOCL5MtMrgkkQ/s237/cencer.jpg",
       "boy_names": ["Daksha", "Dev", "Darshan", "Devansh", "Divit"],
-      "girl_names": ["Dolly", "Devika", "Disha", "Diya", "Divya", "Diya", "Divisha", "Daksha", "Darshita", "Dhyana", "Dishita", "Dhvani", "Dipali", "Deetya"]
+      "girl_names": ["Dolly", "Devika", "Disha", "Diya", "Divya", "Divisha", "Daksha", "Darshita", "Dhyana", "Dishita", "Dhvani", "Dipali", "Deetya"]
       },
       {
       "name": "Leo", 
       "date_range": "July 23 - August 22",
       "description": "Leo, symbolized by the Lion, radiates confidence, charisma, and a natural flair for leadership. Leos are often seen as passionate and creative individuals.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilqbkumyxHLJ0Jb2hbhovSsmc85Hdp__zAGxIaAAo7z0TGgAo8tn408zVNxENcOpdHeU26AX9Aj2nGvxVAJX1ahEUVJQEY3zEZcnsNdKVm4KlBvbE6g5jhoSlJ4aSDT0UnxhYyyGUuRRH2iHciDTlLzwNtAajO-bOl18ECrOWQnpMaupj4BPFTZBbfWsU/s241/leo.jpg",
-      "boy_names": ["Mohit", "Manav", "Manish", "Mayank", "Madhav", "Mahir", "Mayank", "Mridul", "Mihir", "Manvik", "Manas", "Mitansh", "Mokshith"],
+      "boy_names": ["Mohit", "Manav", "Manish", "Madhav", "Mahir", "Mayank", "Mridul", "Mihir", "Manvik", "Manas", "Mitansh", "Mokshith"],
       "girl_names": ["Mia", "Mishka", "Myra", "Mahira", "Meher", "Manya", "Mitali", "Meenal", "Manvi", "Meesha", "Miraya", "Manyata"]
 	},
 	{
@@ -53,7 +53,7 @@
       "date_range": "September 23 - October 23",
       "description": "Libra, the Scales, signifies balance, harmony, and a love for beauty. Libras are known for their diplomatic nature and a keen sense of fairness.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM-q2VY5UkFb5FDZSBfX8cD3BR6LU5uXZHrZfuB7Tm7e9Z6LtCPYFe7aC1Zj-tUYfaU12s8di5if9QV3tKmquC4woMwmXS9laU7tOe3YLsUWw-6k0wcpbF8JKoktpRrrFrpXqS3EUucvwrEGHAmtkBlZac8TKV5se3WyeHl5-kT0Ayg0f0VWUfssTncoY/s242/libra.jpg", 
-      "boy_names": ["Rahul", "Rajat", "Rishabh", "Rohan", "Rudra", "Reyansh", "Riaan", "Rudra", "Ruhan", "Ronav", "Ranveer", "Rishit", "Rigved", "Rajvir", "Raunak"],
+      "boy_names": ["Rahul", "Rajat", "Rishabh", "Rohan", "Rudra", "Reyansh", "Riaan", "Ruhan", "Ronav", "Ranveer", "Rishit", "Rigved", "Rajvir", "Raunak"],
       "girl_names": ["Reva", "Tanvi", "Trisha", "Tanya", "Tejasvi", "Rishika", "Riva", "Radhika", "Ruhani", "Reya", "Rajeshwari", "Ranjini", "Roshni", "Risha"]
     },
 	{
@@ -61,7 +61,7 @@
       "date_range": "Octeber 24 - November 21",
       "description": "Scorpio, the Scorpion, exudes intensity, passion, and resilience. Scorpios are often characterized by their deep emotions and a mysterious allure.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCyStvHpyylOJvN7C-F4rsl3y-T-ctH_k_Y1BAVk0Qihn-38maI29XnhLahY7hrxA90FEng372Lv8qITGgW2IkM0S-CI8D6SOFLijHds1JL3ggc3uGI_eAdPomuIkyRAu2HNQ5j9nfAhFT5z06yUalY0uDw89S1VkSV4jYNy5DNfDNQFz-d6qR4caw8Mo/s219/scorpio.jpg", 
-      "boy_names": ["Naman", "Noah", "Neil", "Nirav", "Neil", "Nayan", "Nirbhay", "Navish", "Naksh", "Nitesh", "Nishay", "Nirvik", "Neerav", "Nishith"],
+      "boy_names": ["Naman", "Noah", "Neil", "Nirav", "Nayan", "Nirbhay", "Navish", "Naksh", "Nitesh", "Nishay", "Nirvik", "Neerav", "Nishith"],
       "girl_names": ["Neha", "Nitya", "Natasha", "Navya", "Niharika", "Navya", "Nishka", "Niharika", "Naina", "Nandini", "Nivya", "Nitara", "Neharika", "Namrata", "Nysha"]
     },
 	{
@@ -76,17 +76,17 @@
       "name": "Capricorn",
       "date_range": "December 22 - January 19",
       "description": "Capricorn, the Goat, symbolizes ambition, discipline, and a strong sense of responsibility. Capricorns are determined and value hard work.",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXQtlhuNJ_-5da1jrwRMADqcIq1d0K0R4r9TN52oqhPLZMsHnPOwKBpEIP-jzh3WimTINXP0Bts7Zpve_2ho3yz0nKyyLBpflwl5o_a188loPYOWXTrRvKVO5UZNg76n6assSqPDR-gcHWmjFPVddzDsdfH1WeJz6KZU8REJd9tLO1fUfXImplDxFOoWo/s211/capricorn%20.jpp",
-      "boy_names": ["Gautam", "Jayant", "Jatin", "Jaidev", "Jiyan", "Jivin", "Jashan", "Jaitvik", "Jagrav", "Jayant", "Jheelam", "Jayanth", "Jivansh", "Jiya", "Jivika", "Jahnvi", "Joshita", "Jhanvi", "Jagravi", "Janya", "Jheel", "Jaisvika", "Jivanshi"],
-      "girl_names": ["Jiya", "Jivika", "Jahnvi", "Joshita", "Jhanvi", "Jagravi", "Janya", "Jheel", "Jaisvika", "Jivanshi"]  
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXQtlhuNJ_-5da1jrwRMADqcIq1d0K0R4r9TN52oqhPLZMsHnPOwKBpEIP-jzh3WimTINXP0Bts7Zpve_2ho3yz0nKyyLBpflwl5o_a188loPYOWXTrRvKVO5UZNg76n6assSqPDR-gcHWmjFPVddzDsdfH1WeJz6KZU8REJd9tLO1fUfXImplDxFOoWo/s211/capricorn%20.jpg",
+      "boy_names": ["Gautam", "Jatin", "Jaidev", "Jiyan", "Jivin", "Jashan", "Jaitvik", "Jagrav", "Jayant", "Jheelam", "Jayanth", "Jivansh"],
+      "girl_names": ["Jiya", "Jivika", "Joshita", "Jhanvi", "Jagravi", "Janya", "Jheel", "Jaisvika", "Jivanshi"]  
 	},
 	{
       "name": "Aquarius",
       "date_range": "January 20 - February 18",
       "description":  "Aquarius, the Water-Bearer, embodies innovation, independence, and a humanitarian spirit. Aquarians are often forward-thinking and open-minded.",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXQtlhuNJ_-5da1jrwRMADqcIq1d0K0R4r9TN52oqhPLZMsHnPOwKBpEIP-jzh3WimTINXP0Bts7Zpve_2ho3yz0nKyyLBpflwl5o_a188loPYOWXTrRvKVO5UZNg76n6assSqPDR-gcHWmjFPVddzDsdfH1WeJz6KZU8REJd9tLO1fUfXImplDxFOoWo/s211/capricorn%20.jpg",
-      "boy_names": ["Daksh", "Gaurav", "Dheeraj", "Darsh", "Devansh", "Dhruv", "Diyan", "Gautam", "Gopa", "Gatik", "Goutm", "Gaurik", "Gyaanesh", "Ganish"],
-      "girl_names": ["Diya", "Divisha", "Daksha", "Darshita","Devika", "Dhyana", "Dishita", "Dhvani", "Dipali", "Deetya"]
+      "boy_names": ["Daksh", "Gaurav", "Dheeraj", "Darsh", "Devansh", "Dhruv", "Diyan", "Gautam", "Gopal", "Gatik", "Gaurik", "Gyaanesh", "Ganish"],
+      "girl_names": ["Diya", "Divisha", "Daksha", "Darshita", "Devika", "Dhyana", "Dishita", "Dhvani", "Dipali", "Deetya"]
     },
     {
 	  "name": "Pisces",
